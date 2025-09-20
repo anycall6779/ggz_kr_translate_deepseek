@@ -1,0 +1,4 @@
+azurel_url
+keycode
+modeldate
+modelname
